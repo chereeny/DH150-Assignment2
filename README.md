@@ -1,11 +1,9 @@
 # DH150-Assignment2
 ## Pilot UT
 
-
 ### Purpose of Usability Testing (UT):
 
 The purpose of UT is to uncover any issues with the developmental and design process of the website. UT uses a small sample size that requires the participants to do a detailed test in order for the testers to collect empirical data. These tests are very controlled and can be done in a location or remotely. The participants will come from different backgrounds and they are usually asked to perform realistic tasks while using the product. As a result, UT is able to uncover more global usability problems. The goal of usability testing is to inform the design, eliminate frustration, and improve profitability. 
-
 
 ### Pilot UT Introduction:
 
@@ -18,7 +16,6 @@ During my heuristic evaluation of this website, I found several pressing issues 
 - The system is **unable to prevent, recognize, diagnose, and recover** from entering invalid inputs in the filtering toolbar. 
 
  - The site is inefficient to use due to the cluttering of information and has **poor functional and aesthetic design**.
-
 
 ### Methodology:
 
