@@ -33,13 +33,13 @@
 
 ### Pilot UT Survey Link: 
 
- [Go to survey] (https://docs.google.com/forms/d/e/1FAIpQLScRfKlcPlvp7dVlj-Cl7XbQWYWSSZ-hlLlsqHXkq_ZIwYE3Bg/viewform?usp=sf_link)
+ [Go to survey](https://docs.google.com/forms/d/e/1FAIpQLScRfKlcPlvp7dVlj-Cl7XbQWYWSSZ-hlLlsqHXkq_ZIwYE3Bg/viewform?usp=sf_link)
 
 
 
 ### Pilot UT Video:
 
- Participant 1 video : [Click here for video] (https://drive.google.com/file/d/15rpdQdHvqSRDGOvJw6Yet5A1w3bo7RR6/view?usp=sharing)
+ Participant 1 video : [Click here for video](https://drive.google.com/file/d/15rpdQdHvqSRDGOvJw6Yet5A1w3bo7RR6/view?usp=sharing)
 
 
 
